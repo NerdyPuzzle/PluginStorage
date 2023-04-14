@@ -36,3 +36,4 @@ https://mcreator.net/system/files/2022-09/goldfuscate.zip
 https://mcreator.net/system/files/2022-10/all_mods-1.2.zip
 https://mcreator.net/system/files/2022-09/MoreItemTriggers_0.zip
 https://mcreator.net/system/files/2022-07/entity-id-and-uuid.zip
+https://mcreator.net/plugin/64523/resource-pack-generator
