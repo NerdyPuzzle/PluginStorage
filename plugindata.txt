@@ -5,7 +5,7 @@ https://mcreator.net/system/files/2023-04/Chinese%201.2_1.zip
 https://mcreator.net/system/files/2023-04/generator-1.14.4-v-1.2.zip
 https://mcreator.net/system/files/2023-04/MDEStudioTheme%201.0.6.zip
 https://mcreator.net/system/files/2023-04/FabricEssentials_1.7.1%20%282%29.zip
-https://mcreator.net/system/files/2023-04/EXTRAS_2.zip
+https://mcreator.net/system/files/2023-04/EXTRAS_1.zip
 https://mcreator.net/system/files/2023-04/Kleiders%20Custom%20Renderer%20Plugin%20v5.4.0_0.zip
 https://mcreator.net/system/files/2023-02/file-manager.zip
 https://mcreator.net/system/files/2023-04/attributes-2.3.1a.zip
