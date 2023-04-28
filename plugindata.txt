@@ -13,7 +13,7 @@ https://mcreator.net/system/files/2023-03/Marwinekks_Procedures_Plus-1.3.1.zip
 https://mcreator.net/system/files/2023-03/VectorUtils_1.0.1.zip
 https://mcreator.net/system/files/2023-04/better-crafting-recipes-2023.2.1.zip
 https://mcreator.net/system/files/2023-04/CustomSkyPlugin_4.0.0.zip
-https://mcreator.net/system/files/2023-03/configuration_files_0.zip
+https://mcreator.net/system/files/2023-04/configuration_files.zip
 https://mcreator.net/system/files/2023-03/Nerdys_CuriosAPI_Plugin_0.zip
 https://mcreator.net/system/files/2022-10/map_7.zip
 https://mcreator.net/system/files/2023-02/DamageSourcePlugin_1.4.5.zip
