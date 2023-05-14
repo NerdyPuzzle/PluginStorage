@@ -37,3 +37,4 @@ https://mcreator.net/system/files/2022-10/all_mods-1.2.zip
 https://mcreator.net/system/files/2022-09/MoreItemTriggers_0.zip
 https://mcreator.net/system/files/2022-07/entity-id-and-uuid.zip
 https://mcreator.net/system/files/2021-04/mcreator-generator-1.12.2-2021.1-v4.0.1.zip
+https://mcreator.net/system/files/2023-05/ProcedureFiesta%201.0.0.zip
