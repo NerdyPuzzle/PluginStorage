@@ -1,4 +1,4 @@
-https://mcreator.net/system/files/2023-05/Nerdys_Geckolib_Plugin.zip
+https://mcreator.net/system/files/2023-05/Nerdys_Geckolib_Plugin_0.zip
 https://mcreator.net/system/files/2023-04/generator-fabric-1.19.2.zip
 https://mcreator.net/system/files/2023-04/1.12.2-Forge-Energy-1.1.0.zip
 https://mcreator.net/system/files/2023-04/Chinese%201.35.zip
